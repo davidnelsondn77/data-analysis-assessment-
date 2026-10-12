@@ -1,2 +1,5 @@
-# data-analysis-assessment-
-this is my assignment for week 1
+Week 1 Data Analysis Assignment
+
+Introduction
+
+This repository contains my Week 1 Data Analysis assignment.
